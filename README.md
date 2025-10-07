@@ -15,7 +15,7 @@ Currently focusing on **backend development** and improving my skills in **Java,
 - **Focus Areas:** Backend Development, Linux, and Software Architecture
 
 ### 📫 Contact
-- 🌐 [GitHub Profile](https://github.com/USERNAME)  
+- 🌐 [GitHub Profile](https://github.com/BedirMirac)  
 - ✉️ You can reach me here on GitHub
 
 ---
