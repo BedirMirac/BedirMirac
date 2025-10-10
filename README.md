@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm a passionate software developer who enjoys building clean, efficient, and scalable solutions.  
-Currently focusing on **backend development** and improving my skills in **Java, C, and Linux systems**.
+Currently focusing on **backend development** and improving my skills in **Python, C, and Linux systems**.
 
 ### 💼 About Me
 - 🎓 Computer Science student
@@ -10,8 +10,8 @@ Currently focusing on **backend development** and improving my skills in **Java,
 - 🧩 Open to collaboration on open-source and backend-related projects
 
 ### 🛠️ Tech Stack
-- **Languages:** C, Java, Python  
-- **Tools & OS:** Git, Ubuntu, IntelliJ IDEA, VS Code  
+- **Languages:** C, Python  
+- **Tools & OS:** Git, Ubuntu, VS Code  
 - **Focus Areas:** Backend Development, Linux, and Software Architecture
 
 ### 📫 Contact
