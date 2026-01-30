@@ -4,14 +4,14 @@ I'm a passionate software developer who enjoys building clean, efficient, and sc
 Currently focusing on **backend development** and improving my skills in **Python, C, and Linux systems**.
 
 ### 💼 About Me
-- 🎓 Computer Science student
+- 🎓 Computer Engineering student
 - 💻 Interested in backend development and system programming  
 - 🧠 Always learning and experimenting with new technologies  
 - 🧩 Open to collaboration on open-source and backend-related projects
 
 ### 🛠️ Tech Stack
-- **Languages:** C, Python  
-- **Tools & OS:** Git, Ubuntu, VS Code  
+- **Languages:** C, Go, Python
+- **Tools & OS:** Git, CachyOS, VS Code  
 - **Focus Areas:** Backend Development, Linux, and Software Architecture
 
 ### 📫 Contact
