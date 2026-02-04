@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I'm a passionate software developer who enjoys building clean, efficient, and scalable solutions.  
-Currently focusing on **backend development** and improving my skills in **Python, C, and Linux systems**.
+I'm a passionate software engineer who enjoys building clean, efficient, and scalable solutions.  
+Currently focusing on **backend development** and improving my skills in **Go, C, and Linux systems**.
 
 ### 💼 About Me
 - 🎓 Computer Engineering student
