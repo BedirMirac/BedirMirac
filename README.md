@@ -11,7 +11,7 @@ Currently focusing on **backend development** and improving my skills in **Go, C
 
 ### 🛠️ Tech Stack
 - **Languages:** C, Go, Python
-- **Tools & OS:** Git, CachyOS, VS Code  
+- **Tools & OS:** Git, Fedora, Neovim  
 - **Focus Areas:** Backend Development, Linux, and Software Architecture
 
 ### 📫 Contact
