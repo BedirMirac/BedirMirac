@@ -7,7 +7,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I love discovering how things work under the hood
@@ -24,7 +23,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/bedirmirac">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bedirmirac&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="bedirmirac's GitHub Stats" />
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bedirmirac&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="bedirmirac's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=bedirmirac&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="bedirmirac's GitHub Streak" width="49%" />
 </p>
@@ -78,12 +77,6 @@
 
 ## 💬 Quote
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
