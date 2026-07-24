@@ -12,7 +12,7 @@
 ## 📌 About Me
 - I love discovering how things work under the hood
 - I believe in open-source and sharing knowledge
-- I also tutor students in C programming to help them understan about basic algorithms logic
+- I also tutor students in C programming to help them understand about basic algorithms logic
 
 
 ## 🧠 My Focus Areas
